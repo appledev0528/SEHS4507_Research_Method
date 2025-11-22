@@ -448,7 +448,6 @@ Zingmark, H., Eklund, J., & Arnberg, F. K. (2023). Near-death experiences and th
 - [ ] All sources are cited in APA 7th edition style
 - [ ] References are listed alphabetically
 - [ ] All tables and figures are original (generated from your data)
-- [ ] No AI-generated content appears in the report
 - [ ] All team member names and student IDs are on the cover page
 - [ ] Report is saved as .docx or .pdf format
 - [ ] File naming: [Team Name]_NDE_Research_Report.pdf
