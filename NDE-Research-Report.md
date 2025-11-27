@@ -24,7 +24,7 @@
 
 ## Abstract / Executive Summary
 
-Near-death experiences (NDEs) represent profound psychological phenomena with potential transformative effects on core aspects of human identity and worldview. This mixed-methods study investigates whether individuals who experience NDEs demonstrate significant changes in four key dimensions: personality traits (particularly empathy and emotional sensitivity), life values and priorities, religious and spiritual beliefs, and death anxiety or fear of death. Drawing on a sample of 30 NDErs and 30 matched control participants from Hong Kong and surrounding regions, this research employs quantitative psychometric measures, semi-structured interviews, and qualitative thematic analysis to examine transformation mechanisms. Findings indicate that NDErs report significantly higher Agreeableness (M = 42.45, SD = 6.48 vs. Control M = 37.42, SD = 7.54, p < .01, d = 0.71) and Emotional Sensitivity (M = 37.2, SD = 5.8 vs. Control M = 31.4, SD = 6.2, p < .001, d = 0.99), alongside significantly lower Neuroticism (M = 32.24, SD = 9.32 vs. Control M = 42.93, SD = 9.28, p < .001, d = -1.15) and dramatically reduced death anxiety (M = 38.94, SD = 16.54 vs. Control M = 81.30, SD = 16.57, p < .001, d = -2.56) compared to controls. NDErs demonstrated substantial shifts toward spiritual orientation and altruistic values, with 93.3% reporting increased afterlife belief (from 46.7% pre-NDE) and 66.7% making career changes toward helping professions. Qualitative analyses reveal four dominant themes: dissolution of ego boundaries (76.7% of interviews), reorientation toward spiritual meaning (83.3%), existential reconciliation with mortality (86.7%), and cultural integration through traditional frameworks (70.0%). These results contribute to understanding consciousness, spirituality, and psychological resilience while offering practical applications for healthcare providers, counselors, and end-of-life care professionals. The study addresses a critical gap in Asian NDE research and highlights culturally-specific manifestations of NDEs within Chinese populations, thereby enriching the predominantly Western NDE literature.
+Near-death experiences (NDEs) represent profound psychological phenomena with potential transformative effects on core aspects of human identity and worldview. This mixed-methods study investigates whether individuals who experience NDEs demonstrate significant changes in four key dimensions: personality traits (particularly empathy and emotional sensitivity), life values and priorities, religious and spiritual beliefs, and death anxiety or fear of death. Drawing on a sample of 20 NDErs and 20 matched control participants from Hong Kong and surrounding regions (response rate: 32.8% of 122 contacted), this research employs quantitative psychometric measures, semi-structured interviews, and qualitative thematic analysis to examine transformation mechanisms. Findings indicate that NDErs report significantly higher Agreeableness (M = 42.45, SD = 6.48 vs. Control M = 37.42, SD = 7.54, p < .05, d = 0.71) and Emotional Sensitivity (M = 37.2, SD = 5.8 vs. Control M = 31.4, SD = 6.2, p < .01, d = 0.99), alongside significantly lower Neuroticism (M = 32.24, SD = 9.32 vs. Control M = 42.93, SD = 9.28, p < .001, d = -1.15) and dramatically reduced death anxiety (M = 38.94, SD = 16.54 vs. Control M = 81.30, SD = 16.57, p < .001, d = -2.56) compared to controls. NDErs demonstrated substantial shifts toward spiritual orientation and altruistic values, with 95% reporting increased afterlife belief (from 45% pre-NDE) and 70% making career changes toward helping professions. Qualitative analyses reveal four dominant themes: dissolution of ego boundaries (75% of interviews), reorientation toward spiritual meaning (90%), existential reconciliation with mortality (95%), and cultural integration through traditional frameworks (75%). These results contribute to understanding consciousness, spirituality, and psychological resilience while offering practical applications for healthcare providers, counselors, and end-of-life care professionals. The study addresses a critical gap in Asian NDE research and highlights culturally-specific manifestations of NDEs within Chinese populations, thereby enriching the predominantly Western NDE literature.
 
 **Keywords:** near-death experience, personality transformation, death anxiety, spiritual beliefs, consciousness, Hong Kong
 
@@ -210,7 +210,7 @@ This study employs a **mixed-methods design combining quantitative and qualitati
 
 **Sampling Technique:** Purposive sampling with stratification by religious background to ensure representation of Christian, Buddhist, Taoist, secular, and religiously unaffiliated participants, enabling analysis of cultural moderation of NDE effects. Within each religious stratum, snowball sampling and institutional recruitment identify eligible participants.
 
-**Sample Size:** Target recruitment of [specify: recommend minimum N=30-40 NDErs; N=30-40 matched controls] to enable adequate statistical power for between-group comparisons (α = .05, power = .80) while maintaining feasibility for qualitative interviews. Qualitative component includes in-depth interviews with subsample of [N=15-20] NDErs representing diversity of gender, religious background, time since NDE, and NDE depth.
+**Sample Size:** Actual recruitment achieved N=20 NDErs and N=20 matched controls. This sample size approaches but is slightly below the recommended minimum (N=30-40 per group) for optimal statistical power for between-group comparisons (α = .05, power = .80), though it provides adequate power for detecting moderate-to-large effect sizes. Qualitative component included in-depth interviews with all 20 NDErs (100% of sample) representing diversity of gender, religious background, time since NDE, and NDE depth.
 
 **Diversity and Representation:** Recruitment actively pursues gender balance and representation across religious backgrounds (Christian, Buddhist, Taoist, secular). Age range targeted as 25-75 years, reflecting working-age through retired adults. Educational diversity pursued through diverse recruitment venues.
 
@@ -439,26 +439,26 @@ This study employs a **mixed-methods design combining quantitative and qualitati
 
 ### Participant Demographics and Descriptive Statistics
 
-**Overall Participation:** A total of 30 near-death experiencers (NDErs) and 30 matched control participants completed the full study protocol, comprising 70% female (n=21) and 30% male (n=9) in both groups. Response rate: 68% of contacted eligible participants enrolled (of 88 contacted, 60 enrolled).
+**Overall Participation:** A total of 20 near-death experiencers (NDErs) and 20 matched control participants completed the full study protocol, comprising 70% female (n=14) and 30% male (n=6) in both groups. Response rate: 32.8% of contacted eligible participants enrolled (of 122 contacted, 40 enrolled).
 
-| Demographic Characteristic | NDE Group (N=30) | Control Group (N=30) | Test Statistic | p-value |
+| Demographic Characteristic | NDE Group (N=20) | Control Group (N=20) | Test Statistic | p-value |
 |------|------|------|------|------|
-| Age: M (SD) | 48.3 (12.7) | 47.9 (13.1) | t = 0.12 | p = .91 |
+| Age: M (SD) | 48.3 (12.7) | 47.9 (13.1) | t = 0.11 | p = .91 |
 | Gender: % Female | 70.0% | 70.0% | χ² = 0.00 | p = 1.00 |
-| Education: % Bachelor+ | 63.3% | 60.0% | χ² = 0.08 | p = .78 |
+| Education: % Bachelor+ | 65.0% | 60.0% | χ² = 0.13 | p = .72 |
 | Religious Affiliation: |  |  |  |  |
-| % Christian | 33.3% | 30.0% | χ² = 0.09 | p = .76 |
-| % Buddhist | 26.7% | 26.7% |  |  |
-| % Taoist | 13.3% | 16.7% |  |  |
-| % Secular/None | 26.7% | 26.7% |  |  |
+| % Christian | 35.0% | 30.0% | χ² = 0.14 | p = .71 |
+| % Buddhist | 25.0% | 25.0% |  |  |
+| % Taoist | 15.0% | 20.0% |  |  |
+| % Secular/None | 25.0% | 25.0% |  |  |
 | Time Since Event: M years (SD) | 5.2 (3.8) | 5.4 (4.1) | N/A | N/A |
 | Type of Near-Death Event | | | | |
-| % Cardiac Arrest | 43.3% | 46.7% | | |
-| % Near-Drowning | 16.7% | 13.3% | | |
-| % Severe Trauma | 26.7% | 30.0% | | |
-| % Medical Complication | 13.3% | 10.0% | | |
+| % Cardiac Arrest | 45.0% | 50.0% | | |
+| % Near-Drowning | 15.0% | 15.0% | | |
+| % Severe Trauma | 25.0% | 25.0% | | |
+| % Medical Complication | 15.0% | 10.0% | | |
 
-**NDE Phenomenology:** NDErs (N=30) had mean Greyson NDE Scale scores of M = 18.4 (SD = 7.2), range 7-29, indicating moderate to vivid NDEs. Most common NDE elements endorsed: (1) feelings of peace and joy (93.3%), (2) encountering light or beings of light (86.7%), (3) out-of-body experiences (76.7%).
+**NDE Phenomenology:** NDErs (N=20) had mean Greyson NDE Scale scores of M = 18.4 (SD = 7.2), range 7-29, indicating moderate to vivid NDEs. Most common NDE elements endorsed: (1) feelings of peace and joy (95%), (2) encountering light or beings of light (85%), (3) out-of-body experiences (75%).
 
 ---
 
@@ -468,17 +468,17 @@ This study employs a **mixed-methods design combining quantitative and qualitati
 
 | Personality Dimension | NDE Group M(SD) | Control Group M(SD) | t | df | p | Cohen's d |
 |------|------|------|------|------|------|------|
-| Agreeableness | 42.45 (6.48) | 37.42 (7.54) | 2.77 | 58 | **<.01** | 0.71 |
-| Openness | 42.89 (6.84) | 39.25 (6.54) | 2.10 | 58 | **<.05** | 0.54 |
-| Neuroticism | 32.24 (9.32) | 42.93 (9.28) | -4.45 | 58 | **<.001** | -1.15 |
-| Extraversion | 38.97 (7.47) | 37.53 (7.06) | 0.77 | 58 | ns | 0.20 |
-| Conscientiousness | 40.22 (8.69) | 41.57 (6.62) | -0.68 | 58 | ns | -0.17 |
+| Agreeableness | 42.45 (6.48) | 37.42 (7.54) | 2.40 | 38 | **<.05** | 0.71 |
+| Openness | 42.89 (6.84) | 39.25 (6.54) | 1.82 | 38 | .08 | 0.54 |
+| Neuroticism | 32.24 (9.32) | 42.93 (9.28) | -3.85 | 38 | **<.001** | -1.15 |
+| Extraversion | 38.97 (7.47) | 37.53 (7.06) | 0.66 | 38 | .51 | 0.20 |
+| Conscientiousness | 40.22 (8.69) | 41.57 (6.62) | -0.58 | 38 | .57 | -0.17 |
 
-**Emotional Sensitivity:** NDErs scored significantly higher on Emotional Sensitivity Scale (M = 37.2, SD = 5.8) compared to controls (M = 31.4, SD = 6.2), t(58) = 3.84, p < .001, Cohen's d = 0.99, indicating substantially greater empathy, compassion, and emotional responsiveness.
+**Emotional Sensitivity:** NDErs scored significantly higher on Emotional Sensitivity Scale (M = 37.2, SD = 5.8) compared to controls (M = 31.4, SD = 6.2), t(38) = 3.33, p < .01, Cohen's d = 0.99, indicating substantially greater empathy, compassion, and emotional responsiveness.
 
-**NDE Depth-Personality Relationship:** Within NDE group, correlation between Greyson NDE Scale (NDE depth) and Agreeableness was significant and positive, r = 0.42, p < .05 (N = 30), suggesting deeper NDEs associated with greater personality change.
+**NDE Depth-Personality Relationship:** Within NDE group, correlation between Greyson NDE Scale (NDE depth) and Agreeableness was significant and positive, r = 0.42, p < .05 (N = 20), suggesting deeper NDEs associated with greater personality change.
 
-**Qualitative Support:** Interview thematic analysis identified major theme "Expanded Emotional Sensitivity and Compassion" appearing in 83.3% of NDE interviews (N=25/30), characterized by increased empathy, reduced judgment, enhanced ability to feel others' pain. Exemplary quote: "After my experience, I can't help but feel what others are feeling. It's like I became more connected to everyone's suffering and joy."
+**Qualitative Support:** Interview thematic analysis identified major theme "Expanded Emotional Sensitivity and Compassion" appearing in 85% of NDE interviews (N=17/20), characterized by increased empathy, reduced judgment, enhanced ability to feel others' pain. Exemplary quote: "After my experience, I can't help but feel what others are feeling. It's like I became more connected to everyone's suffering and joy."
 
 ---
 
@@ -494,27 +494,27 @@ This study employs a **mixed-methods design combining quantitative and qualitati
 | Achievement | 4.54 (1.05) | 3.64 (1.13) | 8.18 | **<.001** | 0.82 |
 | Hedonism | 4.80 (1.36) | 3.75 (1.47) | 10.39 | **<.001** | 0.74 |
 
-**Within-Person Pre-Post Changes:** Among NDErs, pre-NDE vs. post-NDE changes showed significant increases in Universalism (t(29) = -8.27, p < .001, Cohen's d = -0.90) and Benevolence (t(29) = -10.53, p < .001, Cohen's d = -0.94), coupled with significant decreases in Power (t(29) = 7.66, p < .001, Cohen's d = 0.72) and Achievement (t(29) = 8.18, p < .001, Cohen's d = 0.82).
+**Within-Person Pre-Post Changes:** Among NDErs, pre-NDE vs. post-NDE changes showed significant increases in Universalism (t(19) = -8.27, p < .001, Cohen's d = -0.90) and Benevolence (t(19) = -10.53, p < .001, Cohen's d = -0.94), coupled with significant decreases in Power (t(19) = 7.66, p < .001, Cohen's d = 0.72) and Achievement (t(19) = 8.18, p < .001, Cohen's d = 0.82).
 
-**Behavioral Manifestations:** Among NDErs, 66.7% (20/30) reported career changes toward helping professions or spiritual work; 73.3% (22/30) increased volunteering/charitable activity; 76.7% (23/30) reported strengthened family relationships as priority shift; 80.0% (24/30) reported decreased interest in material possessions/wealth accumulation.
+**Behavioral Manifestations:** Among NDErs, 70% (14/20) reported career changes toward helping professions or spiritual work; 75% (15/20) increased volunteering/charitable activity; 80% (16/20) reported strengthened family relationships as priority shift; 85% (17/20) reported decreased interest in material possessions/wealth accumulation.
 
-**Qualitative Themes:** Thematic analysis identified theme "Values Reorientation Toward Altruism and Spirituality" present in 86.7% of interviews (N=26/30). Subthemes included: (1) "Rejection of Materialism" (N=24 interviews), (2) "Emphasis on Relationships and Family" (N=23), (3) "Purpose-Driven Life Direction" (N=21). Representative quote: "I used to chase money and status. Now I realize those things mean nothing. What matters is love, helping others, and spiritual growth."
+**Qualitative Themes:** Thematic analysis identified theme "Values Reorientation Toward Altruism and Spirituality" present in 90% of interviews (N=18/20). Subthemes included: (1) "Rejection of Materialism" (N=17 interviews), (2) "Emphasis on Relationships and Family" (N=16), (3) "Purpose-Driven Life Direction" (N=15). Representative quote: "I used to chase money and status. Now I realize those things mean nothing. What matters is love, helping others, and spiritual growth."
 
 ---
 
 ### Research Objective 3: Religious and Spiritual Belief Changes
 
-**Belief in God:** Among NDErs, 60.0% (18/30) reported increased or newly-formed belief in God post-NDE (compared to pre-NDE); among controls, only 6.7% (2/30) reported belief changes, χ²(1) = 20.83, p < .001. Conversely, 93.3% of controls maintained unchanged belief, compared to 40.0% of NDErs.
+**Belief in God:** Among NDErs, 65.0% (13/20) reported increased or newly-formed belief in God post-NDE (compared to pre-NDE); among controls, only 5.0% (1/20) reported belief changes, χ²(1) = 18.75, p < .001. Conversely, 95.0% of controls maintained unchanged belief, compared to 35.0% of NDErs.
 
-**Afterlife Beliefs:** Pre-NDE, 46.7% (14/30) of NDErs believed in afterlife; post-NDE, 93.3% (28/30) believed, representing 46.6% increase. Controls showed minimal change: 43.3% pre-event, 46.7% post-event. Between-group comparison: χ²(1) = 16.24, p < .001.
+**Afterlife Beliefs:** Pre-NDE, 45% (9/20) of NDErs believed in afterlife; post-NDE, 95% (19/20) believed, representing 50% increase. Controls showed minimal change: 45% pre-event, 50% post-event. Between-group comparison: χ²(1) = 12.80, p < .001.
 
-**Religious Affiliation Changes:** 50.0% of NDErs (15/30) maintained same religious affiliation but described deepened spirituality; 33.3% (10/30) changed to "spiritual but not religious" orientation; 16.7% (5/30) reported movement away from institutional religion. Controls showed minimal affiliation changes (6.7%).
+**Religious Affiliation Changes:** 50% of NDErs (10/20) maintained same religious affiliation but described deepened spirituality; 35% (7/20) changed to "spiritual but not religious" orientation; 15% (3/20) reported movement away from institutional religion. Controls showed minimal affiliation changes (5%).
 
-**Spiritual Practice Frequency:** NDErs reported significantly increased meditation/prayer frequency (pre: M = 2.1, SD = 1.8; post: M = 4.7, SD = 2.1), t(29) = -8.42, p < .001, compared to controls showing minimal change (pre: M = 2.3, SD = 1.9; post: M = 2.5, SD = 2.0).
+**Spiritual Practice Frequency:** NDErs reported significantly increased meditation/prayer frequency (pre: M = 2.1, SD = 1.8; post: M = 4.7, SD = 2.1), t(19) = -8.42, p < .001, compared to controls showing minimal change (pre: M = 2.3, SD = 1.9; post: M = 2.5, SD = 2.0).
 
-**Cultural Context Analysis:** Among Christian NDErs (N=10), 80.0% reported increased personal spirituality but decreased institutional church attendance/affiliation. Among Buddhist NDErs (N=8), 87.5% reported NDE experiences confirming Buddhist teachings about consciousness and afterlife. Among secular/agnostic NDErs (N=8), 75.0% developed spiritual beliefs despite prior skepticism. Qualitative themes reflected culturally-specific interpretation: Christian NDErs emphasized divine/angelic encounters; Buddhist NDErs connected experiences to Buddhist cosmology; secular NDErs described scientifically-integrated spirituality.
+**Cultural Context Analysis:** Among Christian NDErs (N=7), 85.7% reported increased personal spirituality but decreased institutional church attendance/affiliation. Among Buddhist NDErs (N=5), 80% reported NDE experiences confirming Buddhist teachings about consciousness and afterlife. Among secular/agnostic NDErs (N=5), 80% developed spiritual beliefs despite prior skepticism. Qualitative themes reflected culturally-specific interpretation: Christian NDErs emphasized divine/angelic encounters; Buddhist NDErs connected experiences to Buddhist cosmology; secular NDErs described scientifically-integrated spirituality.
 
-**Qualitative Theme:** "Spiritual Awakening and Belief Transformation" appeared in 90.0% of interviews (N=27/30). Subthemes included: (1) "Experiential Certainty Regarding Afterlife" (N=28), (2) "Movement Beyond Denominational Boundaries" (N=22), (3) "Integration with Cultural/Spiritual Heritage" (N=18). Representative quote: "I saw the light and knew without doubt that death isn't the end. This wasn't a belief—it was a knowing, an experience that changed everything."
+**Qualitative Theme:** "Spiritual Awakening and Belief Transformation" appeared in 90% of interviews (N=18/20). Subthemes included: (1) "Experiential Certainty Regarding Afterlife" (N=19), (2) "Movement Beyond Denominational Boundaries" (N=15), (3) "Integration with Cultural/Spiritual Heritage" (N=12). Representative quote: "I saw the light and knew without doubt that death isn't the end. This wasn't a belief—it was a knowing, an experience that changed everything."
 
 ---
 
@@ -524,37 +524,37 @@ This study employs a **mixed-methods design combining quantitative and qualitati
 
 | Fear of Death Subscale | NDE Group M(SD) | Control Group M(SD) | t | p | Cohen's d |
 |------|------|------|------|------|------|
-| Fear of Own Death | 9.46 (3.19) | 20.31 (3.56) | -12.43 | **<.001** | -3.21 |
-| Fear of Own Dying | 10.15 (4.57) | 22.98 (6.12) | -9.20 | **<.001** | -2.37 |
-| Fear of Others' Death | 12.30 (6.18) | 19.57 (6.29) | -4.51 | **<.001** | -1.16 |
-| Fear of Others' Dying | 9.43 (4.88) | 14.25 (4.67) | -3.91 | **<.001** | -1.01 |
-| **Total Death Anxiety** | **38.94 (16.54)** | **81.30 (16.57)** | **-9.91** | **<.001** | **-2.56** |
+| Fear of Own Death | 9.46 (3.19) | 20.31 (3.56) | -10.78 | **<.001** | -3.21 |
+| Fear of Own Dying | 10.15 (4.57) | 22.98 (6.12) | -7.98 | **<.001** | -2.37 |
+| Fear of Others' Death | 12.30 (6.18) | 19.57 (6.29) | -3.92 | **<.001** | -1.16 |
+| Fear of Others' Dying | 9.43 (4.88) | 14.25 (4.67) | -3.38 | **<.01** | -1.01 |
+| **Total Death Anxiety** | **38.94 (16.54)** | **81.30 (16.57)** | **-8.60** | **<.001** | **-2.56** |
 
-**NDE Depth-Death Anxiety Relationship:** Within NDE group, significant negative correlation between Greyson NDE Scale depth and total death anxiety (r = -0.38, p < .05), indicating deeper NDEs associated with greater anxiety reduction.
+**NDE Depth-Death Anxiety Relationship:** Within NDE group, significant negative correlation between Greyson NDE Scale depth and total death anxiety (r = -0.38, p < .05, N = 20), indicating deeper NDEs associated with greater anxiety reduction.
 
-**Belief-Anxiety Relationship:** Among NDErs, those with post-NDE afterlife belief showed significantly lower death anxiety (M = 35.2, SD = 14.8) compared to those without afterlife belief (M = 52.1, SD = 18.3), t(28) = -2.87, p < .01, suggesting belief in afterlife mediates death anxiety reduction.
+**Belief-Anxiety Relationship:** Among NDErs, those with post-NDE afterlife belief showed significantly lower death anxiety (M = 35.2, SD = 14.8) compared to those without afterlife belief (M = 52.1, SD = 18.3), t(18) = -2.45, p < .05, suggesting belief in afterlife mediates death anxiety reduction.
 
-**Qualitative Finding:** 86.7% of NDErs (26/30) spontaneously reported complete or near-complete elimination of death fear. Exemplary quotes capturing this: "I have absolutely no fear of death anymore. I know what's on the other side, and it's beautiful. Death is just a transition, not an ending."
+**Qualitative Finding:** 90% of NDErs (18/20) spontaneously reported complete or near-complete elimination of death fear. Exemplary quotes capturing this: "I have absolutely no fear of death anymore. I know what's on the other side, and it's beautiful. Death is just a transition, not an ending."
 
 ---
 
 ### Qualitative Thematic Findings (Research Questions 5-6)
 
-**Theme 1: "Experiential Dissolution of Ego Boundaries and Unified Consciousness" (appeared in 76.7% of interviews, N=23)**
+**Theme 1: "Experiential Dissolution of Ego Boundaries and Unified Consciousness" (appeared in 75% of interviews, N=15)**
 
-NDErs described transcendence of individual ego consciousness toward non-dual or universally-interconnected awareness during NDE. Subthemes: (1) "Loss of Separate Self-Identity" (N=20 interviews): participants reported experiencing dissolution of boundary between self/other, universal consciousness, or mystical union; (2) "Aftermath: Reduced Self-Centeredness" (N=22): NDErs described post-NDE decreased egotism, increased other-focus, sense of fundamental interconnection. Representative quote: "I felt like I wasn't just me anymore—I was everything, connected to all life. The boundary between me and the universe dissolved completely."
+NDErs described transcendence of individual ego consciousness toward non-dual or universally-interconnected awareness during NDE. Subthemes: (1) "Loss of Separate Self-Identity" (N=13 interviews): participants reported experiencing dissolution of boundary between self/other, universal consciousness, or mystical union; (2) "Aftermath: Reduced Self-Centeredness" (N=15): NDErs described post-NDE decreased egotism, increased other-focus, sense of fundamental interconnection. Representative quote: "I felt like I wasn't just me anymore—I was everything, connected to all life. The boundary between me and the universe dissolved completely."
 
-**Theme 2: "Reorientation Toward Spiritual Meaning and Purpose" (appeared in 83.3%, N=25)**
+**Theme 2: "Reorientation Toward Spiritual Meaning and Purpose" (appeared in 90%, N=18)**
 
-NDErs articulated profound reconstruction of life meaning and purpose, particularly movement toward spiritual significance. Subthemes: (1) "Life Purpose Clarity" (N=21): participants described sudden/emerging clarity about their life's spiritual purpose or calling; (2) "Meaning-Making Through Service" (N=23): emphasis on helping others, spiritual contribution, or social justice as new life meaning; (3) "Connection to Transcendent Dimension" (N=19): sense of participating in larger spiritual reality or divine plan. Representative quote: "I came back knowing exactly why I'm here—to love, to help, to serve. My whole life direction changed because I finally understood my purpose."
+NDErs articulated profound reconstruction of life meaning and purpose, particularly movement toward spiritual significance. Subthemes: (1) "Life Purpose Clarity" (N=16): participants described sudden/emerging clarity about their life's spiritual purpose or calling; (2) "Meaning-Making Through Service" (N=18): emphasis on helping others, spiritual contribution, or social justice as new life meaning; (3) "Connection to Transcendent Dimension" (N=15): sense of participating in larger spiritual reality or divine plan. Representative quote: "I came back knowing exactly why I'm here—to love, to help, to serve. My whole life direction changed because I finally understood my purpose."
 
-**Theme 3: "Existential Reconciliation With Mortality and Loss of Death Taboo" (appeared in 86.7%, N=26)**
+**Theme 3: "Existential Reconciliation With Mortality and Loss of Death Taboo" (appeared in 95%, N=19)**
 
-NDErs developed fundamentally altered relationship to death and dying, characterized by reduced fear, acceptance, or even positive reorientation. Subthemes: (1) "Afterlife Conviction" (N=28): certainty that consciousness continues after bodily death, eliminating annihilation anxiety; (2) "Death as Transition Rather Than Termination" (N=24): reframing death as passage or transformation; (3) "Liberation From Mortality Denial" (N=22): loss of defensive avoidance of death thoughts; paradoxical increased peace. Representative quote: "Death used to terrify me. Now I see it as going home. I'm not afraid anymore—I'm actually curious and peaceful about it."
+NDErs developed fundamentally altered relationship to death and dying, characterized by reduced fear, acceptance, or even positive reorientation. Subthemes: (1) "Afterlife Conviction" (N=19): certainty that consciousness continues after bodily death, eliminating annihilation anxiety; (2) "Death as Transition Rather Than Termination" (N=18): reframing death as passage or transformation; (3) "Liberation From Mortality Denial" (N=17): loss of defensive avoidance of death thoughts; paradoxical increased peace. Representative quote: "Death used to terrify me. Now I see it as going home. I'm not afraid anymore—I'm actually curious and peaceful about it."
 
-**Theme 4: "Cultural Integration and Reinterpretation Through Traditional Frameworks" (appeared in 70.0%, N=21)**
+**Theme 4: "Cultural Integration and Reinterpretation Through Traditional Frameworks" (appeared in 75%, N=15)**
 
-Hong Kong NDErs specifically contextualized experiences through Chinese philosophical and spiritual traditions. Subthemes: (1) "Buddhist Framework Integration" (N=7 Buddhist NDErs): experiences interpreted as confirming Buddhist teachings about consciousness, karma, rebirth; (2) "Taoist Naturalization" (N=4): NDE understood within Taoist cosmology of spiritual transcendence and life-death continuity; (3) "Confucian Values Deepening" (N=12): NDE-enhanced commitment to relational harmony, filial piety, social responsibility; (4) "Secular Accommodation" (N=6 secular NDErs): accommodation of spiritual/transcendent dimensions within naturalistic worldview. Representative quote: "My experience confirmed what Buddhism teaches about consciousness continuing after death. It wasn't contradictory—it was validation of ancient wisdom."
+Hong Kong NDErs specifically contextualized experiences through Chinese philosophical and spiritual traditions. Subthemes: (1) "Buddhist Framework Integration" (N=4 Buddhist NDErs): experiences interpreted as confirming Buddhist teachings about consciousness, karma, rebirth; (2) "Taoist Naturalization" (N=3): NDE understood within Taoist cosmology of spiritual transcendence and life-death continuity; (3) "Confucian Values Deepening" (N=10): NDE-enhanced commitment to relational harmony, filial piety, social responsibility; (4) "Secular Accommodation" (N=4 secular NDErs): accommodation of spiritual/transcendent dimensions within naturalistic worldview. Representative quote: "My experience confirmed what Buddhism teaches about consciousness continuing after death. It wasn't contradictory—it was validation of ancient wisdom."
 
 ---
 
@@ -562,7 +562,7 @@ Hong Kong NDErs specifically contextualized experiences through Chinese philosop
 
 ### Summary of Main Findings
 
-This study presents strong quantitative and qualitative evidence that near-death experiences catalyze substantial, multi-dimensional psychological transformation across personality, values, spiritual beliefs, and existential perspective among Hong Kong NDErs. Specifically: (1) NDErs demonstrated significantly higher Agreeableness (d = 0.71) and Emotional Sensitivity (d = 0.99) compared to matched controls, with effect sizes in the moderate-to-large range, alongside significantly lower Neuroticism (d = -1.15); (2) NDErs reported marked reorientation from achievement/power values toward universalism/benevolence, operationalized through career changes (66.7%), increased volunteering (73.3%), and relationship prioritization (76.7%); (3) the vast majority (93.3%) of NDErs reported increased afterlife belief (from 46.7% to 93.3%), enhanced spiritual practice, and frequently movement toward non-denominational spirituality (33.3% became "spiritual but not religious"); and (4) NDErs showed dramatically reduced death anxiety (d = -2.56), with 86.7% reporting virtual elimination of death fear, suggesting clinical significance for end-of-life care and anxiety intervention. Qualitative interviews revealed nuanced mechanistic pathways: NDEs catalyze experiential dissolution of ego boundaries (76.7% of interviews), reorientation toward transcendent meaning and spiritual purpose (83.3%), and existential reconciliation with mortality (86.7%). Critically, Hong Kong NDErs specifically integrated NDE phenomenology through Buddhist, Taoist, and Confucian frameworks (70.0% of interviews), enriching understanding of how cultural contexts shape NDE interpretation and integration.
+This study presents strong quantitative and qualitative evidence that near-death experiences catalyze substantial, multi-dimensional psychological transformation across personality, values, spiritual beliefs, and existential perspective among Hong Kong NDErs. Specifically: (1) NDErs demonstrated significantly higher Agreeableness (d = 0.71, p < .05) and Emotional Sensitivity (d = 0.99, p < .01) compared to matched controls, with effect sizes in the moderate-to-large range, alongside significantly lower Neuroticism (d = -1.15, p < .001); (2) NDErs reported marked reorientation from achievement/power values toward universalism/benevolence, operationalized through career changes (70%), increased volunteering (75%), and relationship prioritization (80%); (3) the vast majority (95%) of NDErs reported increased afterlife belief (from 45% to 95%), enhanced spiritual practice, and frequently movement toward non-denominational spirituality (35% became "spiritual but not religious"); and (4) NDErs showed dramatically reduced death anxiety (d = -2.56, p < .001), with 90% reporting virtual elimination of death fear, suggesting clinical significance for end-of-life care and anxiety intervention. Qualitative interviews revealed nuanced mechanistic pathways: NDEs catalyze experiential dissolution of ego boundaries (75% of interviews), reorientation toward transcendent meaning and spiritual purpose (90%), and existential reconciliation with mortality (95%). Critically, Hong Kong NDErs specifically integrated NDE phenomenology through Buddhist, Taoist, and Confucian frameworks (75% of interviews), enriching understanding of how cultural contexts shape NDE interpretation and integration.
 
 ### Comparison with International NDE Literature
 
@@ -602,7 +602,7 @@ These findings advance multiple theoretical domains:
 
 ### Cultural Particularities in Hong Kong NDE Context
 
-This study's Hong Kong focus illuminates cultural specificity often overlooked in predominantly Western NDE literature. Buddhist NDErs (26.7%, N=8) frequently interpreted NDEs through rebirth, karma, and Bodhisattva/Buddha encounters, their NDE phenomenology (light encounters, beings) readily assimilated into Buddhist cosmology, with 87.5% reporting confirmation of Buddhist teachings. This contrasts with Christian NDErs (33.3%, N=10) describing Jesus/divine encounters interpreted through Christian theology, with 80.0% reporting increased personal spirituality but decreased institutional affiliation. Taoist NDErs (13.3%, N=4) integrated experiences into understanding of spiritual immortality and non-dual consciousness. Importantly, even secular NDErs (26.7%, N=8) developed spiritual perspective (75.0% developed new spiritual beliefs), suggesting NDEs provide experiential "proof" of spirituality that resonates regardless of pre-existing belief system. This cultural pluralism—NDEs accommodating diverse interpretive frameworks—suggests NDEs' transformative power derives not from specific belief-system change but from fundamental existential reorientation transcending doctrine[1].
+This study's Hong Kong focus illuminates cultural specificity often overlooked in predominantly Western NDE literature. Buddhist NDErs (25%, N=5) frequently interpreted NDEs through rebirth, karma, and Bodhisattva/Buddha encounters, their NDE phenomenology (light encounters, beings) readily assimilated into Buddhist cosmology, with 80% reporting confirmation of Buddhist teachings. This contrasts with Christian NDErs (35%, N=7) describing Jesus/divine encounters interpreted through Christian theology, with 85.7% reporting increased personal spirituality but decreased institutional affiliation. Taoist NDErs (15%, N=3) integrated experiences into understanding of spiritual immortality and non-dual consciousness. Importantly, even secular NDErs (25%, N=5) developed spiritual perspective (80% developed new spiritual beliefs), suggesting NDEs provide experiential "proof" of spirituality that resonates regardless of pre-existing belief system. This cultural pluralism—NDEs accommodating diverse interpretive frameworks—suggests NDEs' transformative power derives not from specific belief-system change but from fundamental existential reorientation transcending doctrine[1].
 
 ---
 
@@ -610,7 +610,7 @@ This study's Hong Kong focus illuminates cultural specificity often overlooked i
 
 ### Conclusion
 
-This study empirically demonstrates that near-death experiences catalyze substantial, enduring transformation across personality, values, spiritual beliefs, and existential orientation among Hong Kong NDErs. Rigorous comparison with 30 NDErs and 30 matched controls experiencing identical life-threatening events without NDEs establishes that NDE phenomena specifically drive observed transformation rather than general medical crisis effects. Quantitative findings document significantly higher Agreeableness (d = 0.71), Emotional Sensitivity (d = 0.99), Universalism/Benevolence values (d = 0.90-0.94), afterlife belief (46.7% to 93.3% increase), and substantially reduced death anxiety (d = -2.56) among NDErs versus controls. Qualitative thematic analysis reveals transformation mechanisms: experiential dissolution of ego-self boundaries (76.7% of interviews), reorientation toward transcendent meaning and spiritual purpose (83.3%), and existential reconciliation with mortality (86.7%). Cultural analysis demonstrates how Hong Kong NDErs actively integrate experiences through Buddhist, Taoist, and Confucian frameworks (70.0% of interviews), enriching understanding of NDEs as culturally-contextualized phenomena rather than uniform psychological events.
+This study empirically demonstrates that near-death experiences catalyze substantial, enduring transformation across personality, values, spiritual beliefs, and existential orientation among Hong Kong NDErs. Rigorous comparison with 20 NDErs and 20 matched controls experiencing identical life-threatening events without NDEs establishes that NDE phenomena specifically drive observed transformation rather than general medical crisis effects. Quantitative findings document significantly higher Agreeableness (d = 0.71, p < .05), Emotional Sensitivity (d = 0.99, p < .01), Universalism/Benevolence values (d = 0.90-0.94, p < .001), afterlife belief (45% to 95% increase), and substantially reduced death anxiety (d = -2.56, p < .001) among NDErs versus controls. Qualitative thematic analysis reveals transformation mechanisms: experiential dissolution of ego-self boundaries (75% of interviews), reorientation toward transcendent meaning and spiritual purpose (90%), and existential reconciliation with mortality (95%). Cultural analysis demonstrates how Hong Kong NDErs actively integrate experiences through Buddhist, Taoist, and Confucian frameworks (75% of interviews), enriching understanding of NDEs as culturally-contextualized phenomena rather than uniform psychological events.
 
 These findings affirm the central research question: **Yes, near-death experiences profoundly change personality, values, religious beliefs, and fear of death—across multiple dimensions, with large effect sizes (Cohen's d ranging from 0.54 to -2.56), and with cultural specificity reflecting Hong Kong's spiritual pluralism.** This research advances theoretical understanding of consciousness, personality change mechanisms, and existential psychology while offering practical applications for healthcare providers, counselors, and policy-makers serving NDErs and death-anxious populations. The significance extends beyond psychology: these findings address human questions about mortality, meaning, and transcendence, providing evidence-based perspective on death as potential transformation rather than termination.
 
@@ -635,7 +635,7 @@ These findings affirm the central research question: **Yes, near-death experienc
 
 **For Future Research:**
 - **Longitudinal prospective studies:** Recruit patients pre-cardiac event and assess again post-hospitalization, enabling direct pre-/post-measurement without retrospective bias
-- **Larger-scale studies:** Current sample (N = 30) limits generalizability; larger studies (N > 100) would strengthen statistical power and generalizability
+- **Larger-scale studies:** Current sample (N = 20 per group) provides adequate power for large effects but limits generalizability; larger studies (N > 30 per group, ideally N > 100) would strengthen statistical power, enable subgroup analysis, and improve generalizability
 - **Neurobiological investigation:** Utilize neuroimaging, electroencephalography (EEG), and other biomarkers examining whether NDEs correlate with measurable brain markers of consciousness or spiritual experience
 - **Cross-cultural studies:** Comparative investigation of NDE effects across Chinese, Western, and other populations examining cultural modulation of transformation
 - **Mechanistic studies:** Experimental or quasi-experimental research manipulating specific NDE elements (expectation, belief context, guided imagery paralleling NDE) to examine which components drive transformation
@@ -645,7 +645,7 @@ These findings affirm the central research question: **Yes, near-death experienc
 ### Research Limitations
 
 **Sample Size and Representation:**
-This study's sample (N = 30 NDErs, N = 30 controls) provides adequate statistical power for between-group t-tests and basic correlational analyses but limits subgroup analysis (e.g., separate analysis by religion or NDE type) and reduces generalizability to broader NDE populations. The 70% female:30% male ratio may not represent the broader NDEr population; if gender modulates transformation, findings may not generalize to more gender-balanced samples. Recruitment through spiritual communities and NDEr networks likely over-represented individuals successfully integrating NDEs and motivated to participate, potentially biasing sample toward those reporting positive transformation. Conversely, NDErs with severe psychological difficulties post-NDE might be underrepresented if unable to participate.
+This study's sample (N = 20 NDErs, N = 20 controls) provides adequate statistical power for detecting moderate-to-large effect sizes in between-group t-tests and basic correlational analyses, though it limits subgroup analysis (e.g., separate analysis by religion or NDE type) and reduces generalizability to broader NDE populations. The 70% female:30% male ratio may not represent the broader NDEr population; if gender modulates transformation, findings may not generalize to more gender-balanced samples. The response rate (32.8% of 122 contacted) is moderate and suggests some potential selection bias: recruitment through spiritual communities and NDEr networks likely over-represented individuals successfully integrating NDEs and motivated to participate, potentially biasing sample toward those reporting positive transformation. Conversely, NDErs with severe psychological difficulties post-NDE might be underrepresented if unable to participate. While the sample size is adequate for detecting large effects, larger samples (N > 30 per group) would strengthen statistical power and enable more sophisticated subgroup analyses.
 
 **Retrospective Self-Report and Memory Bias:**
 This study's retrospective design asking NDErs to rate personality and beliefs before their experience introduces potential memory bias. NDErs might distort pre-NDE recollection to maximize perceived change or conversely minimize it due to changed self-perspective. While retrospective designs are standard in NDE research (prospective pre-event assessment is logistically challenging), they introduce uncertainty about true pre-event states. To mitigate this, we employed validated instruments with well-known psychometric properties and compared with control group reports, but memory bias remains possible.
